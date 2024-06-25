@@ -1,0 +1,13 @@
+main {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(2, 3, 61);
+  }
+  
+  section {
+    background-color: rgb(20, 20, 66);
+    margin: 20px 0;
+    padding: 20px;
+    
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
