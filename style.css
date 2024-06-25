@@ -37,7 +37,11 @@ body {
     padding: 15px 0;
     display: block;
   }
-  
+  .butons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
   main {
     padding: 20px;
     text-align: center;
