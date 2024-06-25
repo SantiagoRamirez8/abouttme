@@ -37,11 +37,19 @@ body {
     padding: 15px 0;
     display: block;
   }
-  .butons{
+  .butons a{
+    text-decoration: none;
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: white;
+    color: rgb(255, 255, 255);
+}
+.butons{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+    gap: 2rem;
+    font-size: 1.2rem;
+}
+  
   main {
     padding: 20px;
     text-align: center;
