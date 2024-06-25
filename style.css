@@ -11,7 +11,7 @@ body {
   }
   
   header {
-    background-color: rgb(0, 4, 255);
+    background-color: rgb(2, 3, 61);
     color: white;
     text-align: center;
     padding: 7px 0;
@@ -24,7 +24,7 @@ body {
   }
   
   nav {
-    background-color: rgb(0, 4, 255);
+    background-color: rgb(20, 20, 66);
     color: white;
   }
   
@@ -48,17 +48,17 @@ body {
   }
   
   nav ul li a:hover {
-    background-color: #0004ff;
+    background-color: rgb(2, 3, 61);
   }
   
   main {
     padding: 20px;
     text-align: center;
-    background-color: #0044ff
+    background-color: rgb(2, 3, 61);
   }
   
   section {
-    background-color: rgb(0, 4, 255);
+    background-color: rgb(20, 20, 66);
     margin: 20px 0;
     padding: 20px;
     
